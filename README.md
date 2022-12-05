@@ -3,7 +3,7 @@
 ## Project: snacks_crud_project
 ### Author: AbdallahMosa
 
-### [PR1](https://github.com/AbdallahMosa/django-models/pull/1)
+### [PR1](https://github.com/AbdallahMosa/snacks_crud_project/pull/1)
 
 ##  create django aproject
 - ```django-admin startproject project-name . ```
